@@ -42,11 +42,11 @@ Dinawa has four main features:
 
 ## Tech Stack
 
-React + Vite for the web app
-Tesseract.js for OCR and extracting text from images
-Ojibwe Dictionary TSV for the underlying language data
-Google Gemini for translation cleanup, interpretation, and contextualization
-JavaScript for the application logic
+* React + Vite for the web app
+* Tesseract.js for OCR and extracting text from images
+* Ojibwe Dictionary TSV for the underlying language data
+* Google Gemini for translation cleanup, interpretation, and contextualization
+* JavaScript for the application logic
 
 ## Using it
 
