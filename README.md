@@ -16,6 +16,8 @@ Rather than just giving you a translation, Dinawa also provides context about th
 
 The goal is to encourage people to notice and engage with Indigenous languages around them, while using modern AI tools to make that process easier.
 
+btw Diwana means kind in Ojibwe, named this because the theme was about goodness and improving the community
+
 ## How it works
 
 Dinawa has four main features:
